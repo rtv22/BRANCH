@@ -1,0 +1,11 @@
+ddd
+eee
+ccc
+fff
+aaa
+sss
+<<<<<<< HEAD
+www
+=======
+wwww
+>>>>>>> new_1
